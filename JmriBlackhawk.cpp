@@ -1,7 +1,7 @@
 /*
-  Test.h - Test library for Wiring - implementation
-  Copyright (c) 2006 John Doe.  All right reserved.
-*/
+ JmriBlackhawk.cpp - Library for JMRIBlackhawk project - library should help arduino to do some stupid commands like turn the servo, or highlight light alarm
+ Copyright (c) 2017 Roman Shuvaryk.  All right reserved.
+ */
 
 // include this library's description file
 #include "JmriBlackhawk.h"
